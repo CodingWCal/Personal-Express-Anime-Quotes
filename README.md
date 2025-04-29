@@ -3,7 +3,7 @@
 A lightweight Express.js app that lets you post, upvote with a star, and delete your favorite anime quotes in real-time.
 
 **Link to project:** https://github.com/CodingWCal/personal-express-anime-quotes  
-![Anime Quotes App Screenshot]()  
+![Anime Quotes App Screenshot](https://github.com/CodingWCal/Personal-Express-Anime-Quotes/blob/main/personal-express-screenshot.png)  
 *Screenshot of the live app showing quote list and voting controls.*
 
 ## How It’s Made

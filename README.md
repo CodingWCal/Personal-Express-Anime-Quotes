@@ -14,7 +14,7 @@ A lightweight Express.js app that lets you post, upvote with a star, and delete 
 - **Templating:** EJS  
 - **Frontend:** HTML, CSS, Font Awesome, vanilla JavaScript (Fetch API)  
 
-I started with the “Savage Demo” boilerplate, wired up Express routes for CRUD on a `messages` collection, then replaced “messages” with `quotes` and added thumbs-up/thumbs-down handlers. EJS renders the list server-side, and the front-end `main.js` uses fetch calls to PUT/DELETE without full page reloads.
+I started with wiring up Express routes for CRUD on a `quotes` collection,  and added thumbs-up handlers with a star icon. EJS renders the list server-side, and the front-end `main.js` uses fetch calls to PUT/DELETE without full page reloads.
 
 ## Optimizations
 

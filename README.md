@@ -26,3 +26,13 @@ I started with wiring up Express routes for CRUD on a `quotes` collection,  and 
 - Getting single-page-style interactivity without a front-end framework can be surprisingly clean with Express + Fetch.  
 - EJS partials made it easy to avoid duplicate markup across pages.  
 - Managing state server-side (upvotes/downvotes) felt more robust than juggling client-only logic.
+
+## Installation
+
+1. Clone repo
+2. run `npm install`
+
+## Usage
+
+1. run `npm run savage`
+2. Navigate to `localhost:3000`
